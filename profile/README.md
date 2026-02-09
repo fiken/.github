@@ -8,7 +8,7 @@ Fiken er et enkelt og brukervennlig regnskapsprogram for små og mellomstore bed
 * **[Verdens beste kundestøtte](https://fiken.no/hjelp):** Få den hjelpen du trenger
 
 ## Hjelp og support
-* **[Få hjelp med Fiken](https://hjelp.fiken.no):** Brukerveiledninger og svar på vanlige spørsmål.
+* **[Få hjelp med Fiken](https://hjelp.fiken.no):** Finn svar på alt du lurer på rundt regnskap i Fiken.
 * **[Finn en regnskapsfører](https://fiken.no/regnskapsforer):** Oversikt over regnskapsførere som kan Fiken.
 
 ## Ressurser og verktøy
