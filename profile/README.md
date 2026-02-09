@@ -8,15 +8,15 @@ Fiken er et enkelt og brukervennlig regnskapsprogram for små og mellomstore bed
 * **[Start din egen bedrift](https://fiken.no/start-bedrift):** Start din egen bedrift med Fiken
 * **[Verdens beste kundestøtte](https://fiken.no/hjelp):** Få den hjelpen du trenger
 
+## Hjelp og support
+* **[Få hjelp med Fiken](https://hjelp.fiken.no):** Brukerveiledninger og svar på vanlige spørsmål.
+* **[Finn en regnskapsfører](https://fiken.no/regnskapsforer):** Oversikt over regnskapsførere som kan Fiken.
+
 ## Ressurser og verktøy
 * **[Kontohjelp](https://fiken.no/kontohjelp):** Et verktøy for å finne riktig regnskapskonto for dine kjøp og salg.
 * **[Webinar](https://fiken.no/webinar):** Kurs og gjennomganger av hvordan du bruker Fiken effektivt.
 * **[Blogg](https://fiken.no/blogg):** Nyheter, tips og råd om regnskap og næringsliv.
 * **[Forklarer](https://fiken.no/forklarer):** Et oppslagsverk som forklarer vanskelige regnskapsbegreper på en enkel måte.
-
-## Hjelp og support
-* **[Få hjelp med Fiken](https://hjelp.fiken.no):** Brukerveiledninger og svar på vanlige spørsmål.
-* **[Finn en regnskapsfører](https://fiken.no/regnskapsforer):** Oversikt over regnskapsførere som kan Fiken.
 
 ## Om oss
 * **[Søk jobb i Fiken](https://fiken.no/jobb):** Bli en del av oss.
