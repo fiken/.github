@@ -1,5 +1,4 @@
 # Fiken
-Laget med ❤️ for de små bedriftene.
 
 Fiken er et enkelt og brukervennlig regnskapsprogram for små og mellomstore bedrifter. Vi tilbyr også gratistjenester for å starte både enkeltpersonforetak (ENK) og aksjeselskap (AS). Med Fiken har du verktøyene du trenger for å både starte og drive din egen bedrift.
 
